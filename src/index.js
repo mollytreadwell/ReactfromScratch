@@ -5,7 +5,7 @@ import './styles.css';
 const App = () => {
 
     function loveIt(){
-        alert("Everything is Better When Made by Scratch!");
+        alert("Everything is Better When Made from Scratch!");
         return
     }
 
