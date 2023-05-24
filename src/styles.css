@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+    color: whitesmoke;
+    font-family:monospace;
+    text-align: center;
+    transition: color 1s linear;
+}
+
+.pic {
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #b22222;
+    transition: background-color 3s linear;
+}
+
+.popup {
+    width: 50px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: transparent;
+    font-size: 20px;
+    font-family: monospace;
+    color: whitesmoke;
+    width: 75px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: whitesmoke 10px;
+}
